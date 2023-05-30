@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Post.Query.Infrastructure
-build_property.ProjectDir = /media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Events/Code/SM-Post/Post.Query/Post.Query.Infrastructure/
+build_property.ProjectDir = E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Infrastructure\

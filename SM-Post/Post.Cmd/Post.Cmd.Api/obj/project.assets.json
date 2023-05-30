@@ -996,41 +996,52 @@
     ]
   },
   "packageFolders": {
-    "/home/sean/.nuget/packages/": {}
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj",
+      "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
       "projectName": "Post.Cmd.Api",
-      "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj",
-      "packagesPath": "/home/sean/.nuget/packages/",
-      "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/",
+      "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+      "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+      "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/sean/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
-              "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+            "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
             },
-            "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj": {
-              "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj"
+            "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+              "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
             },
-            "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj": {
-              "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj"
+            "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+              "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
             },
-            "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Common/Post.Common.csproj": {
-              "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Common/Post.Common.csproj"
+            "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Common\\Post.Common.csproj"
             }
           }
         }
@@ -1068,7 +1079,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

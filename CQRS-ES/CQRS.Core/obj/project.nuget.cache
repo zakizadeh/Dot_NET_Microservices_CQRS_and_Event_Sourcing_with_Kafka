@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "5CjN6vT3+2FS4ugNC3pfsbydonvB5lFAkjNBxsPiYD/B00SaHXGvGlKhpD00IHFUB0+n0+k1FbAegvWAGEHC6g==",
+  "dgSpecHash": "0vHTTSO3MSo1HHD0WCjPUwCBZa/l7QJ52INh5FOTsbQSrXb2DW7dpM6TN14vR9+wVn1HljmoDSQI996z2gc5gg==",
   "success": true,
-  "projectFilePath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
   "expectedPackageFiles": [
-    "/home/sean/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
-    "/home/sean/.nuget/packages/mongodb.bson/2.14.1/mongodb.bson.2.14.1.nupkg.sha512",
-    "/home/sean/.nuget/packages/mongodb.driver/2.14.1/mongodb.driver.2.14.1.nupkg.sha512",
-    "/home/sean/.nuget/packages/mongodb.driver.core/2.14.1/mongodb.driver.core.2.14.1.nupkg.sha512",
-    "/home/sean/.nuget/packages/mongodb.libmongocrypt/1.3.0/mongodb.libmongocrypt.1.3.0.nupkg.sha512",
-    "/home/sean/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
-    "/home/sean/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
-    "/home/sean/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\mongodb.driver.core\\2.14.1\\mongodb.driver.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\mongodb.libmongocrypt\\1.3.0\\mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

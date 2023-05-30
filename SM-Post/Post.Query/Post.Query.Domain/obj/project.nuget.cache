@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W46/r/5h571myoPB03d9UsIaTpE4KrcWyZAnStQo6CbvXDL/MQxD8JXMsZNJRDPxlmHFTSko2kVPMbBFQecErA==",
+  "dgSpecHash": "1qJuovgWXAfqGfQvy6G+bAoku0vSatOPMu1lOENnxwEWGiSLa6oNqRKPqL4/scf7GfHUJamHkNZ2dBH++WkT4A==",
   "success": true,
-  "projectFilePath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 3/Commands/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj",
+  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Freamwork\\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
