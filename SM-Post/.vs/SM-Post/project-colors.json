@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05f8876c-1021-45c2-b86f-0807f84d8213": {
+      "ProjectGuid": "05f8876c-1021-45c2-b86f-0807f84d8213",
+      "DisplayName": "Post.Cmd.Api",
+      "ColorIndex": 0
+    },
+    "10f4c5cf-9c62-46a7-9440-b1a73d7ff215": {
+      "ProjectGuid": "10f4c5cf-9c62-46a7-9440-b1a73d7ff215",
+      "DisplayName": "CQRS.Core",
+      "ColorIndex": 1
+    },
+    "31867632-470c-45ef-942a-cd7cb457dcfb": {
+      "ProjectGuid": "31867632-470c-45ef-942a-cd7cb457dcfb",
+      "DisplayName": "Post.Common",
+      "ColorIndex": 2
+    },
+    "3c477117-a320-4725-a155-db2cf7f7c328": {
+      "ProjectGuid": "3c477117-a320-4725-a155-db2cf7f7c328",
+      "DisplayName": "Post.Cmd.Infrastructure",
+      "ColorIndex": 3
+    },
+    "359c4dcc-ed83-43b8-8007-9e0dcacbcfce": {
+      "ProjectGuid": "359c4dcc-ed83-43b8-8007-9e0dcacbcfce",
+      "DisplayName": "Post.Query.Domain",
+      "ColorIndex": 4
+    },
+    "50dcd12a-97eb-4daa-b1a2-618436ff2ebe": {
+      "ProjectGuid": "50dcd12a-97eb-4daa-b1a2-618436ff2ebe",
+      "DisplayName": "Post.Cmd.Domain",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
