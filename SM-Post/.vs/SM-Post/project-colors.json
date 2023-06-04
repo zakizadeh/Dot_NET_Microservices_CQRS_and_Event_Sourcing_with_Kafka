@@ -35,7 +35,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "cf0cb596-7c1c-4cb6-be26-fff323165024": {
+      "ProjectGuid": "cf0cb596-7c1c-4cb6-be26-fff323165024",
+      "DisplayName": "Post.Query.Infrastructure",
+      "ColorIndex": 6
+    },
+    "e5b9f844-d34b-4d7a-83db-32d2b153e19d": {
+      "ProjectGuid": "e5b9f844-d34b-4d7a-83db-32d2b153e19d",
+      "DisplayName": "Post.Query.Api",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

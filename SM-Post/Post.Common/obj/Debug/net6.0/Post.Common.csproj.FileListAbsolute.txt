@@ -13,3 +13,18 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\bin\Debug\net6.0\ref\Post.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb

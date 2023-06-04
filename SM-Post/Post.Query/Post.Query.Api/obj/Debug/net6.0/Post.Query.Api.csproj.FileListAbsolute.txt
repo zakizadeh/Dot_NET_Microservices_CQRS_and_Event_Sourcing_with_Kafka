@@ -104,3 +104,10 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/ref/Post.Query.Api.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.pdb
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.genruntimeconfig.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.MvcApplicationPartsAssemblyInfo.cache
