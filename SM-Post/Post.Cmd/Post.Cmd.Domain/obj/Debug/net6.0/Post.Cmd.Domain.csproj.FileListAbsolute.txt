@@ -15,3 +15,20 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/ref/Post.Cmd.Domain.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\ref\Post.Cmd.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\CQRS.Core.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Common.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\CQRS.Core.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Common.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\ref\Post.Cmd.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Freamwork\Dot_NET_Microservices_CQRS_and_Event_Sourcing_with_Kafka\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.pdb
